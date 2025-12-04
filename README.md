@@ -10,3 +10,5 @@ This repository hosts the source code for my personal portfolio website, showcas
 
 # Tech Stack:
 - React
+- HTML
+- CSS
